@@ -4,8 +4,6 @@
 Everything about git is in the manual pages on every linux based system. 
 `man man`, `man git`
 
-![[Pasted image 20240321210642.png]]
-
 **Bold** - type exactly as shown 
 
 # Terminology
@@ -42,8 +40,6 @@ Untracked -> Staging -> Tracked
 Something done when setting up computer, and forgotten. 
 
 Type of configs: **global** x **local** (there are more)
-
-![[Pasted image 20240321223017.png]]
 
 
 - all git config keys are in shape `<section>.<key>`

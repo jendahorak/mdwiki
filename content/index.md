@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my wiki notes
 description: 
 aliases: 
 tags: 
