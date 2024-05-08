@@ -1,5 +1,10 @@
 ---
 title: Welcome to Quartz
+description: 
+aliases: 
+tags: 
+draft: 
+date:
 ---
 
 This is a blank Quartz installation.
