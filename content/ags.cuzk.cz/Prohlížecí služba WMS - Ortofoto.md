@@ -1,0 +1,5 @@
+https://ags.cuzk.cz/arcgis1/services/ORTOFOTO/MapServer/WMSServer
+
+|Name|Title|Abstract|
+|--|--|--|
+|0|ORTOFOTO|<DIV STYLE="text-align:Left;font-size:12pt"><DIV><P><SPAN>Prohlížecí služba Esri ArcGIS Server - Ortofoto ČR je poskytována jako veřejná prohlížecí služba nad daty ortofota České republiky. Jedná se o prohlížecí službu poskytovanou technologií Esri ArcGIS Server. Službu lze využít prostřednictvím přístupových rozhraní REST, SOAP a WMTS formou optimalizovaných mapových dlaždic v souřadnicovém systému S-JTSK/Krovak East North (EPSG 5514). Dále lze službu využít v různých souřadnicových systémech (definovaných v capabilities) prostřednictvím standardu WMS.</SPAN></P><P><SPAN>Esri ArcGIS Server View Service - Orthophoto CR is provided as a public view service for the Orthophoto of the Czech Republic data. The view service is provided using the Esri ArcGIS Server technology. To optimize the speed, the data are provided in form of pre-prepared map tiles. The Service is accessible by one of access interfaces – REST, SOAP, WMTS and WMS.</SPAN></P></DIV></DIV>|

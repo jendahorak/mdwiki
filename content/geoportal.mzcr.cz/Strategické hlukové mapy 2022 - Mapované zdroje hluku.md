@@ -1,0 +1,12 @@
+https://geoportal.mzcr.cz/server/services/SHM2022/Zdroje/MapServer/WFSServer
+
+|Name|Title|Abstract|
+|--|--|--|
+|SHM2022_Zdroje:Aglomerace_letiště|Aglomerace_letiště|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Aglomerace_tramvaj|Aglomerace_tramvaj|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Aglomerace_železnice|Aglomerace_železnice|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Aglomerace_silnice|Aglomerace_silnice|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Aglomerace_průmysl|Aglomerace_průmysl|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Letiště|Letiště|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Železnice|Železnice|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|
+|SHM2022_Zdroje:Silnice|Silnice|Služba poskytuje údaje ze 4. kola strategického hlukového mapování aglomerací, které jsou zobrazeny v 5dB pásmech hlukového indikátoru Ldvn. Součástí 4. kola SHM bylo 7 aglomerací: Praha, Brno, Ostrava, Ústí nad Labem - Teplice, Liberec, Plzeň, Olomouc.|

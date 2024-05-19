@@ -1,0 +1,5 @@
+https://geoportal.cuzk.cz/wfs_inspire_gn/WFService.aspx
+
+|Name|Title|Abstract|
+|--|--|--|
+|elf-gn:NamedPlace|NamedPlace|The INSPIRE - Geographic Names data are harmonised according to INSPIRE Implementing Rules. This dataset of geographic names of the Czech Republic therefore has the unified design with other data created for this INSPIRE theme in frame of whole Europe. The features are represented by a vector (punctual) component with attributes containing wider information about names. The base of the dataset is the database of geographic names of the Czech Republic Geonames completed with names of features located in the Fundamental Base of Geographic Data of the Czech Republic (ZABAGED®) that are not part of Geonames (street and squares names, traffic nodes and protected areas). The attributes are based on the source databases contents eventually constant on the base of characteristic of source databases (e.g. all names are Czech endonyms, names originating in Geonames standard, street names are official etc.)|

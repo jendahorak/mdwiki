@@ -1,0 +1,11 @@
+https://gis.nature.cz/arcgis/services/UzemniOchrana/MezinarodOchrana/MapServer/WMSServer
+
+|Name|Title|Abstract|
+|--|--|--|
+|0|Územní působnost Karpatské úmluvy|Hranice karpatského regionu v České republice vymezená na základě vrstvy geomorfologického členění publikované v: CENEK, R. (1998). Digitální mapa regionálního členění reliéfu ČR. Olomouc. Diplomová práce. Přírodovědecká fakulta Univerzity Palackého.; vrstva obsahuje složené prvky (Multipart Features); © MŽP, 2009|
+|1|EECONET - území|Hranice území (jádrová území, zóny zvýšené péče o krajinu) evropské ekologické sítě (European Ecological Network) na území ČR vymezené s užitím dat Společnosti pro životní prostředí (BÍNOVÁ, L.; CULEK, M.; MÍCHAL, I. (1995). Evropská ekologická síť v České republice (koncept, srpen 1995). Brno. 31 s., Mapové přílohy. Zpráva. Archivuje Společnost pro životní prostředí s.r.o., Brno, České koordinační středisko IUCN Praha.) a dat AOPK ČR; © AOPK ČR, 1996|
+|2|EECONET - koridory|Vymezení koridorů evropské ekologické sítě (European Ecological Network) na území ČR vytvořené s užitím dat Společnosti pro ŽP (BÍNOVÁ, L.; CULEK, M.; MÍCHAL, I. (1995). Evropská ekologická síť v České republice (koncept, srpen 1995). Brno. 31 s., Mapové přílohy. Zpráva. Archivuje Společnost pro životní prostředí s.r.o., Brno, České koordinační středisko IUCN Praha.) a dat AOPK ČR; vrstva obsahuje jednoduché prvky (Singlepart Features); © AOPK ČR, 1996|
+|3|Biosférické rezervace|Hranice biosférických rezervací vymezených v rámci programu Člověk a biosféra (Man and the Biosphere Programme); vrstva obsahuje složené prvky (Multipart Features); © AOPK ČR, 2012|
+|4|Geoparky UNESCO|Hranice mezinárodně významné části přírody pod patronací UNESCO (Global Geoparks); vrstva obsahuje složené prvky (Multipart Features); © AOPK ČR, 2010|
+|5|Světové přírodní dědictví UNESCO|Světové přírodní dědictví UNESCO|
+|6|Mokřady Ramsarské úmluvy|Hranice mokřadů vymezených v rámci Ramsarské úmluvy s užitím dat z: CHYTIL, J.; HAKROVÁ, P.; HUDEC, K. (eds.) et al. (1999). Mokřady České republiky: Přehled vodních a mokřadních lokalit České republiky. Mikulov: Český ramsarský výbor. 327 s.; vrstva obsahuje jednoduché prvky (Singlepart Features); © AOPK ČR, 2014|

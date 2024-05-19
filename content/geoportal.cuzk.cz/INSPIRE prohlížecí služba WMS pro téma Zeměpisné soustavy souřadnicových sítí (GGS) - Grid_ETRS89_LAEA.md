@@ -1,0 +1,13 @@
+https://geoportal.cuzk.cz/WMS_GRID_ETRS89_LAEA/WMService.aspx
+
+|Name|Title|Abstract|
+|--|--|--|
+|Grid_ETRS89-LAEA_100K|Grid_ETRS89-LAEA_100K|Vrstva Grid_ETRS89-LAEA_100K|
+|Grid_ETRS89-LAEA_100K_CellCodes|Grid_ETRS89-LAEA_100K_CellCodes|Vrstva Grid_ETRS89-LAEA_100K_CellCodes|
+|Grid_ETRS89-LAEA_10K|Grid_ETRS89-LAEA_10K|Vrstva Grid_ETRS89-LAEA_10K|
+|Grid_ETRS89-LAEA_10K_CellCodes|Grid_ETRS89-LAEA_10K_CellCodes|Vrstva Grid_ETRS89-LAEA_10K_CellCodes|
+|Grid_ETRS89-LAEA_1K|Grid_ETRS89-LAEA_1K|Vrstva Grid_ETRS89-LAEA_1K|
+|Grid_ETRS89-LAEA_1K_CellCodes|Grid_ETRS89-LAEA_1K_CellCodes|Vrstva Grid_ETRS89-LAEA_1K_CellCodes|
+|Grid_ETRS89-LAEA_100|Grid_ETRS89-LAEA_100|Vrstva Grid_ETRS89-LAEA_100|
+|Grid_ETRS89-LAEA_10|Grid_ETRS89-LAEA_10|Vrstva Grid_ETRS89-LAEA_10|
+|Grid_ETRS89-LAEA_1|Grid_ETRS89-LAEA_1|Vrstva Grid_ETRS89-LAEA_1|

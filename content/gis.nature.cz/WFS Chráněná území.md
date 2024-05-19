@@ -1,0 +1,13 @@
+https://gis.nature.cz/arcgis/services/UzemniOchrana/ChranUzemi/MapServer/WFSServer
+
+|Name|Title|Abstract|
+|--|--|--|
+|UzemniOchrana_ChranUzemi:Maloplošné_zvláště_chráněné_území_-_bod|Maloplošné_zvláště_chráněné_území_-_bod||
+|UzemniOchrana_ChranUzemi:Maloplošné_zvláště_chráněné_území__MZCHÚ_|Maloplošné_zvláště_chráněné_území__MZCHÚ_||
+|UzemniOchrana_ChranUzemi:Ochranné_pásmo_MZCHÚ|Ochranné_pásmo_MZCHÚ||
+|UzemniOchrana_ChranUzemi:Dílčí_plochy_maloplošných_zvláště_chráněných_území|Dílčí_plochy_maloplošných_zvláště_chráněných_území||
+|UzemniOchrana_ChranUzemi:Arondace_v_zóně_národního_parku|Arondace_v_zóně_národního_parku||
+|UzemniOchrana_ChranUzemi:Klidové_území_národního_parku|Klidové_území_národního_parku||
+|UzemniOchrana_ChranUzemi:Zonace_velkoplošného_zvláště_chráněného_území|Zonace_velkoplošného_zvláště_chráněného_území||
+|UzemniOchrana_ChranUzemi:Velkoplošné_zvláště_chráněné_území|Velkoplošné_zvláště_chráněné_území||
+|UzemniOchrana_ChranUzemi:Smluvně_chráněné_území|Smluvně_chráněné_území||

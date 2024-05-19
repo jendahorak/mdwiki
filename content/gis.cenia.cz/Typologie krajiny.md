@@ -1,0 +1,12 @@
+https://gis.cenia.cz/geoserver/typologie_krajiny/wms
+
+|Name|Title|Abstract|
+|--|--|--|
+|krajinne_typy_CR_osidleni_vyuziti_relief|Krajinné typy ČR - osídlení/využití/reliéf|Typologie české krajiny zobrazuje mapové výstupy projektu VaV 640/01/03, Programu výzkumu a vývoje MŽP "Typologie české krajiny", který zpracovala firma Löw a spol., s.r.o. v roce 2005. Pro celé území ČR byly vypracovány regionální rámce charakteristik kulturních krajin. Bylo provedeno vyhodnocení řady dostupných charakteristik primární, sekundární i terciární krajinné struktury.
+Výsledná datová sada obsahuje: (1) Rámcové sídelní krajinné typy; (2) Rámcové krajinné typy způsobů využití území; (3) Rámcové krajinné typy dle reliéfu.|
+|ramcove_krajinne_typy_dle_reliefu|Rámcové krajinné typy dle reliéfu|Typologie české krajiny zobrazuje mapové výstupy projektu VaV 640/01/03, Programu výzkumu a vývoje MŽP "Typologie české krajiny", který zpracovala firma Löw a spol., s.r.o. v roce 2005. Pro celé území ČR byly vypracovány regionální rámce charakteristik kulturních krajin. Bylo provedeno vyhodnocení řady dostupných charakteristik primární, sekundární i terciární krajinné struktury.
+Výsledná datová sada obsahuje: (1) Rámcové sídelní krajinné typy; (2) Rámcové krajinné typy způsobů využití území; (3) Rámcové krajinné typy dle reliéfu.|
+|ramcove_krajinne_typy_zpusobu_vyuziti_uzemi|Rámcové krajinné typy způsobů využití území|Typologie české krajiny zobrazuje mapové výstupy projektu VaV 640/01/03, Programu výzkumu a vývoje MŽP "Typologie české krajiny", který zpracovala firma Löw a spol., s.r.o. v roce 2005. Pro celé území ČR byly vypracovány regionální rámce charakteristik kulturních krajin. Bylo provedeno vyhodnocení řady dostupných charakteristik primární, sekundární i terciární krajinné struktury.
+Výsledná datová sada obsahuje: (1) Rámcové sídelní krajinné typy; (2) Rámcové krajinné typy způsobů využití území; (3) Rámcové krajinné typy dle reliéfu.|
+|ramcove_sidelni_krajinne_typy|Rámcové sídelní krajinné typy|Typologie české krajiny zobrazuje mapové výstupy projektu VaV 640/01/03, Programu výzkumu a vývoje MŽP "Typologie české krajiny", který zpracovala firma Löw a spol., s.r.o. v roce 2005. Pro celé území ČR byly vypracovány regionální rámce charakteristik kulturních krajin. Bylo provedeno vyhodnocení řady dostupných charakteristik primární, sekundární i terciární krajinné struktury.
+Výsledná datová sada obsahuje: (1) Rámcové sídelní krajinné typy; (2) Rámcové krajinné typy způsobů využití území; (3) Rámcové krajinné typy dle reliéfu.|
